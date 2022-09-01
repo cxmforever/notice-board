@@ -1,6 +1,7 @@
 # notice-board
 mmyun
-- mmcloud防失联通知：已恢复
+- mmcloud防失联通知:
+- www.meimeiyun.top
 - m3.meimeifans123.cyou
 - m2.meimeifans123.cyou
 - m1.meimeifans123.cyou
