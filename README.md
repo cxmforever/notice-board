@@ -1,6 +1,6 @@
 # notice-board
 mmyun
-- mmcloud防失联通知:
+- mmyun可用网址:
 - www.meimeiyun.top
 - m3.meimeifans123.cyou
 - m2.meimeifans123.cyou
