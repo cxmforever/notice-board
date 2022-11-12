@@ -1,5 +1,5 @@
 # notice-board
-mmyun
+mmyun（目前网站服务器失联，正在联系上游处理中，如果数据丢失，将会回退到11月10号左右，会补偿受影响用户）
 - mmyun可用网址:
 - www.meimeiyun.top
 - m3.meimeifans123.cyou
