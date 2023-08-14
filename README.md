@@ -1,6 +1,6 @@
 # notice-board
-mmyun（低调使用）
-- mmyun可用网址:
+mmcloud（低调使用）
+- mmcloud可用网址:
 - www.meimeiyun.top
 - m3.meimeifans123.cyou
 - m2.meimeifans123.cyou
